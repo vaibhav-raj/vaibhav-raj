@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-raj" /> </p>
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **JAVASCRIPT, REACT, DS-ALGO**
 
 - 📫 How to reach me **vaibhavraj524@gmail.com**
 
