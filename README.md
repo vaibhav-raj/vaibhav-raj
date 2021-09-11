@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Raj</h1>
-<h3 align="center">I'm a Front-end Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS.</h3>
+<h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-raj" /> </p>
 
