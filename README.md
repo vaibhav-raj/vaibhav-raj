@@ -5,6 +5,10 @@
 <p align="center"> <img
                 src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat"
                 alt="vaibhav-raj" /> </p>
+                
+<p align="center"> <img
+                src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
+                alt="vaibhav-raj" /> </p>
 
 - 🌱 I’m currently learning **MERN FULL STACK DEVELOPEMNT**
 
