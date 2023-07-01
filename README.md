@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Raj 👨🏻‍💻</h1>
+
+ <!-- ###  <h1 align="center">Hi 👋, I'm Vaibhav Raj 👨🏻‍💻</h1>..... -->
+ 
+<img width="1430" alt="profile" src="https://github.com/vaibhav-raj/vaibhav-raj/blob/main/profile.png">
 <h3 align="center">I'm a Full-Stack Web Developer with hands-on experience in designing, developing, and implementing
         applications and solutions using TypeScript, NestJS, GraphQl, MongoDB.</h3>
-
+         
 <p align="center"> <img
                 src="https://komarev.com/ghpvc/?username=vaibhav-raj&label=Profile%20views&color=0e75b6&style=flat"
                 alt="vaibhav-raj" /> </p>
                 
-<p align="center"> <img
+ <!-- ###  <p align="center"> <img
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
-                alt="vaibhav-raj" /> </p>
+                alt="vaibhav-raj" /> </p>..... -->
 
 - 🌱 I’m currently working on  **NestJs, GraphQl, MongoDB**
 
