@@ -73,9 +73,3 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-raj&theme=dark&hide_border=true"
                 alt="vaibhav-raj" /></p>
-
-### 📈 GitHub Activity:
-  <a href="https://github.com/vaibhav-raj/github-readme-activity-graph"><img alt="vaibhav-raj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vaibhav-raj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
-
-
