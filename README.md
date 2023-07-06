@@ -71,9 +71,7 @@
                 src="https://github-readme-stats.vercel.app/api?username=vaibhav-raj&show_icons=true&theme=dark&hide_border=true&locale=en"
                 alt="vaibhav-raj" /></p>
                 
- <!-- ### <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-raj&theme=dark&hide_border=true"
-                alt="vaibhav-raj" /></p>
-..... -->
+
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=vaibhav-raj&theme=dark&hide_border=true&border_radius=10"
                 alt="vaibhav-raj" /></p>
