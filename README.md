@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently working on  **NestJs, GraphQl, MongoDB**
 
-- 💬 Ask me about **TypeScript, NestJs, GraphQl, MongoDB, DS-ALGO**
+- 💬 Ask me about **Javascript, NestJs, GraphQl, MongoDB, NodeJS, ExpressJS, DS-ALGO**
 
 - 📫 How to reach me **vaibhavraj524@gmail.com**
 
