@@ -13,9 +13,9 @@
                 src="https://user-images.githubusercontent.com/40136017/134124139-172a975d-1cf3-4538-8049-8efab00e4489.png"
                 alt="vaibhav-raj" /> </p>..... -->
 
-- 🌱 I’m currently working on  **NodeJs, NestJs, GraphQl, MongoDB**
+- 🌱 I’m currently working on  **NodeJs, NestJs, ExpressJS, GraphQl, MongoDB**
 
-- 💬 Ask me about **Javascript, TypeScript, NestJs, GraphQl, MongoDB, NodeJS, ExpressJS, DS-ALGO**
+- 💬 Ask me about **NodeJS, NestJs, ExpressJS, GraphQl, MongoDB, Javascript, TypeScript, DS-ALGO**
 
 - 📫 How to reach me **vaibhavraj524@gmail.com**
 
